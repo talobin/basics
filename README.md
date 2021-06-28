@@ -1,2 +1,2 @@
-# basics
-Going through all basics of CS
+# Basics
+Going through all the basics of CS
